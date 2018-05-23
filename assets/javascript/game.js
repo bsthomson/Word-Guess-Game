@@ -1,3 +1,3 @@
 var textSpace = document.getElementById("wordSpace")
 
-targetDiv.textContent = "Hello JavaScript!"
+textSpace.textContent = "Hello JavaScript!"
